@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<doc>
+	<path>C:\Users\teacat\Desktop\000NTU\000ntu_3080k_40%.jpg</path>
+	<outputs>
+		<object>
+			<item>
+				<name>card</name>
+				<bndbox>
+					<xmin>734</xmin>
+					<ymin>1448</ymin>
+					<xmax>2342</xmax>
+					<ymax>2568</ymax>
+				</bndbox>
+			</item>
+		</object>
+	</outputs>
+	<time_labeled>1748489549991</time_labeled>
+	<labeled>true</labeled>
+	<size>
+		<width>3060</width>
+		<height>4080</height>
+		<depth>3</depth>
+	</size>
+</doc>
