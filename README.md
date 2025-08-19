@@ -1,5 +1,6 @@
 # TurbidityPredictionV1 
-* This repository hosts the source code for the turbidity prediction project, including essential modules, configuration files, and execution scripts.  
+* This repository hosts the source code for the turbidity prediction project, including essential modules, configuration files, and execution scripts.
+* You can use Predict.jl to run the model.
 ## Repository Structure 
 * `Data`: Contains a test image. 
 * `Env`: Environment configuration files for dependency management. 
